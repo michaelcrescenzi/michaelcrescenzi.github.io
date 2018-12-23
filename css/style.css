@@ -54,8 +54,8 @@ table {
 }
 
 @media (max-width: 991px) {
-  .text { margin-top: 50%;}
-   table {margin-left: 22%;}
+  .text { margin-top: 30%; font-size: 1.7em;}
+   table {margin-left: 0%;}
    img { width: 100%; height: 100%;}
 }
 
